@@ -1,0 +1,29 @@
+_repo: A-practical-treatise-on-coach-building-historical-and-descriptive-b-Containing-full-informati__72016
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burgess, James W.
+    gutenberg_agent_id: '56501'
+    url: http://www.gutenberg.org/2009/agents/56501
+description: ''
+gutenberg_issued: '2023-11-03'
+identifiers:
+  gutenberg: '72016'
+language: en
+pgterms:marc904: https://archive.org/details/practicaltreatis00burg
+pgterms:marc905: 20210829092106burgess
+pgterms:marc906: '1881'
+pgterms:marc907: GB
+production_note: deaurider, A. Marshall and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bCrosby Lockwood and Co., $c1881.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A practical treatise on coach-building historical and descriptive : $b Containing
+  full information of the various trades and processes involved, with hints on the
+  proper keeping of carriages, &c.'
+url: http://www.gutenberg.org/ebooks/72016
