@@ -1,11 +1,16 @@
 _repo: A-practical-treatise-on-coach-building-historical-and-descriptive-b-Containing-full-informati__72016
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72016-h/images/cover.jpg
 creator:
   author:
     agent_name: Burgess, James W.
     gutenberg_agent_id: '56501'
     url: http://www.gutenberg.org/2009/agents/56501
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72016#A-practical-treatise-on-coach-building-historical-and-descriptive-b-Containing-full-informati_
 gutenberg_issued: '2023-11-03'
 identifiers:
   gutenberg: '72016'
